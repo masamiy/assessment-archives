@@ -1,4 +1,4 @@
-# The Carpentries Pre-Workshop Survey
+﻿# The Carpentries Pre-Workshop Survey
 2020-10-16
 
 ----------------
@@ -8,182 +8,178 @@
 *The Carpentries Pre-Workshop Survey*
 
 *Introduction and Purpose*
-My name is Erin Becker and I am the Associate Director of The Carpentries. Thank you for volunteering to take part in our research study, which is about understanding the effectiveness of our workshops. To participate in the study, you will complete a short survey about your skills and perspectives related to our workshop content before and after your workshop. Depending on your location, the survey will be 16-18 questions long and will take approximately 5-10 minutes to complete.
-
+カーペントリーズのアソシエイト・ディレクターのエリン・ベッカーです。この度は、ワークショップの効果を理解するための調査研究に参加していただき、ありがとうございます。ワークショップの前後に、ワークショップの内容に関連したスキルや視点についての簡単なアンケートに答えていただきます。調査は16 - 18 の質問からなり、5～10分程度で完了します。
 *Confidentiality*
-Your responses will be recorded anonymously.  Additionally, you will be asked to create a unique identifier. This identifier will be confidential to you and will help us compare your results with the post-survey.  Your  anonymous and aggregate responses will be shared with workshop Hosts, Instructors, Helpers, and The Carpentries Core Team for the purpose of understanding the learners experiences, improving future workshops and providing in-depth feedback to allow Instructors to reflect their teaching strategies.
-
+回答は匿名で記録され、固有の ID を作成するように求められます。この ID はあなたのみの機密で、ワークショップ後のアンケートの結果と比較することにより私たちを助けてくれます。なお、これらの匿名および集計された回答は、学習者の経験を理解し、今後のワークショップを改善し、インストラクターが教育計画に反映するための詳細なフィードバックを提供する目的で、ワークショップのホスト、インストラクター、ヘルパー、カーペントリーズ・コア・チームと共有されます。
 
 *Risks and Benefits*
-There are no direct risks or benefits to you from filling out this survey, and no compensation. We hope to use these results to improve workshops for future learners.
+このアンケートにご協力いただくことによる直接的なリスクやメリットはなく、報酬もありません。この結果をもとに、今後の学習者のため、ワークショップの改善に役立てたいと考えています。
 
 *Consent*
-You are not required to take this survey to participate in our workshop. You may quit the survey at any time or skip any item other than those required to correctly sort your responses. 
+このアンケートに回答することは、ワークショップに参加する条件ではありません。アンケートはいつ終了しても構いませんし、回答できる項目以外はスキップしていただいても構いません。
 
-If you have any questions about the study, please contact Erin Becker, Associate Director of The Carpentries at ebecker@carpentries.org or eribecker@ucdavis.edu or Megan Welsh, Assistant Professor of Education at the University of California, Davis at megwelsh@ucdavis.edu.
+この研究についてご質問がある場合は、カーペントリーズのアソシエイト・ディレクターであるエリン・ベッカー（ebecker@carpentries.org または eribecker@ucdavis.edu）か、またはカリフォルニア大学デービス校の教育学助教授であるミーガン・ウェルシュ（megwelsh@ucdavis.edu）までご連絡ください。
 
-If you have any questions about your rights or treatment as a research participant in this study or would like to provide input about this research, please contact the University of California at Davis’ Institutional Review Board (IRB) at (916) 703-9151, IRBAdmin@ucdmc.ucdavis.edu, or 2921 Stockton Blvd, Suite 1400, Room 1429, Sacramento, CA 95817.
-
+本研究の参加者としての権利や待遇について質問がある場合、または本研究について意見を提供したい場合は、カリフォルニア大学デービス校のInstitutional Review Board（IRB）（電話：(916) 703-9151、IRBAdmin@ucdmc.ucdavis.edu、または2921 Stockton Blvd, Suite 1400, Room 1429, Sacramento, CA 95817）までご連絡ください。
 -----------
 
-### Do you consent to taking this survey? *
+### このアンケートを受けることに同意しますか？ *
 
-   - yes
-   - no
+   - はい
+   - いいえ
 
-### Are you 18 years of age or above? *
+### 18歳以上の方ですか？ *
 
-   - yes
-   - no
+   - はい
+   - いいえ
 
-### What is the identifier for your workshop? It is in the "YYYY-MM-DD-sitename" format and is used in the URL for the workshop website or the Etherpad you used.  Please copy and paste the workshop identifier into the text box below.  *
+### ワークショップのIDは何ですか？YYYY-MM-DD-sitename 形式で、ワークショップのウェブサイトまたは使用した Etherpad の URL に使用されています。以下のテキストボックスにワークショップ ID をコピーして貼り付けてください。
+(短文による回答)
 
-(short text answer)
+### どのワークショップに参加しますか？ 
 
-### Which of the following workshops are you attending? 
+- データカーペントリー エコロジー 
+- データカーペントリー 経済学 
+- データカーペントリー ジェノミクス 
+- データカーペントリー 地理学 
+- データカーペントリー 社会科学 
+- ライブラリカーペントリー 
+- ソフトウェアカーペントリー 
+- 分からない
 
-- Data Carpentry Ecology 
-- Data Carpentry Economics 
-- Data Carpentry Genomics 
-- Data Carpentry Geospatial 
-- Data Carpentry Social Sciences 
-- Library Carpentry 
-- Software Carpentry 
-- I don’t know 
+### 固有の ID を以下のように入力してください。兄弟・姉妹の人数（半角数字）+ 生まれた街の最初の2文字（小文字）＋現在住んでいる通りの最初の3文字 (小文字)
 
-### Please enter a unique identifier as follows: Number of siblings (as numeric) + First two letters of the city you were born in (lowercase) + First three letters of your current street (lowercase).  
+(短文による回答)
 
-(short text answer)
+### あなたの専門もしくは関連分野について教えてください。  
 
-### Please indicate your relevant fields or disciplines.  
+- 農業もしくは環境科学 
+- 生物医学もしくは健康科学
+- 化学
+- 土木、機械、化学、もしくは原子力工学
+- コンピュータサイエンスもしくは電気工学 
+- 地球科学 
+- 経済学もしくはビジネス 
+- 教育学 
+- 遺伝学、ジェノミクス、もしくはバイオインフォマティクス 
+- ハイパフォーマンスコンピュータ 
+- 人文科学
+- 図書館学もしくは情報科学 
+- 生命科学 
+- 数学もしくは統計学 
+- 医学
+- 有機体生物学 (エコロジー、植物学、動物学、微生物学など) 
+- 理学 
+- 惑星科学 (地質学、 気候学、海洋学など) 
+- 心理学もしくは脳科学 
+- 社会科学
+- 宇宙科学 
 
-- Agricultural or Environmental Sciences 
-- Biomedical or Health Sciences 
-- Chemistry 
-- Civil, Mechanical, Chemical, or Nuclear Engineering 
-- Computer Science or Electrical Engineering 
-- Earth Sciences 
-- Economics or Business 
-- Education 
-- Genetics, Genomics, or Bioinformatics 
-- High Performance Computing 
-- Humanities 
-- Library and Information Science 
-- Life Sciences 
-- Mathematics or Statistics 
-- Medicine 
-- Organismal Biology (Ecology, Botany, Zoology, Microbiology, etc.) 
-- Physical Sciences 
-- Planetary Sciences (Geology, Climatology, Oceanography, etc.) 
-- Psychology or Neuroscience 
-- Social Sciences 
-- Space Sciences 
+### 現在の職業またはキャリアレベルを教えてください。  
 
-### What is your current occupation/career stage?  
+- 事務職 
+- アナリスト 
+- 企業のソフトウェア開発技術者 
+- 教職員
+- 政府の職員 
+- 修士、博士課程の学生 
+- 民間企業の社員 
+- 図書館員もしくはアーカイビスト 
+- 管理職 
+- 博士研究員 
+- 研究職 (研究者プログラマーを含む) 
+- リタイヤもしくは無職 
+- サポートスタッフ (技術サポートを含む) 
+- 学部生 
 
-- Administrative Staff 
-- Analyst 
-- Commercial Software Developer 
-- Faculty 
-- Government Employee 
-- Graduate Student 
-- Industry Employee 
-- Librarian or Archivist 
-- Management 
-- Postdoctoral Researcher 
-- Research Staff (including Researcher Programmer) 
-- Retired or Not Employed 
-- Support Staff (including Technical Support) 
-- Undergraduate Student 
+### ワークショップで使用するコンピュータのオペレーティングシステムを教えてください。 
 
-### What operating system is on the computer you are using at the workshop? 
-
-- macOS 
+- マック OS 
 - Linux 
-- Windows 
-- Not sure 
+- ウィンドウズ 
+- 分からない 
 
-### How often do you currently use any of the following?                                                               
+### 以下を使用する頻度を教えてください。                                                              
 
-#### A specialized software with a point-and-click graphical user interface (e.g., for statistical analysis: SPSS, SAS, ...; for Geospatial analysis: ArcGIS, QGIS, ... ; for Genomics analysis: Geneious, ...) 
+#### ポイントアンドクリックグラフィックユーザーインターフェースに特化したソフトウェア (例: 統計解析: SPSS、SAS、など; 地理学的解析: ArcGIS、 QGIS、など; ジェノミクス解析: Geneious、など) 
 
-- Never 
-- Less than once per year 
-- Several times per year 
-- Monthly 
-- Weekly 
-- Daily 
+- まったくない 
+- 1年に1度以下 
+- 1年に複数回程度 
+- 毎月 
+- 毎週 
+- 毎日 
 
-#### Programming languages (R, Python, etc.) 
+#### プログラム言語 (R、パイソンなど) 
 
-- Never 
-- Less than once per year 
-- Several times per year 
-- Monthly 
-- Weekly 
-- Daily 
+- まったくない 
+- 1年に1度以下 
+- 1年に複数回程度 
+- 毎月 
+- 毎週 
+- 毎日  
 
-#### Databases (SQL, Access, etc.) 
+#### データベース (SQL、アクセスなど) 
 
-- Never 
-- Less than once per year 
-- Several times per year 
-- Monthly 
-- Weekly 
-- Daily 
+- まったくない 
+- 1年に1度以下 
+- 1年に複数回程度 
+- 毎月 
+- 毎週 
+- 毎日 
 
-#### Version control software (Git, Subversion (SVN), Mercurial, etc.) 
+#### バージョン管理ソフトウェア (Git、Subversion (SVN)、Mercurial、など) 
 
-- Never 
-- Less than once per year 
-- Several times per year 
-- Monthly 
-- Weekly 
-- Daily 
+- まったくない 
+- 1年に1度以下 
+- 1年に複数回程度 
+- 毎月 
+- 毎週 
+- 毎日  
 
-#### A command shell (usually accessed through Terminal on macOS or PowerShell on Windows) 
+#### コマンドシェル (通常マック OS やウィンドウズのパワーシェルを介してターミナルにアクセス) 
 
-- Never 
-- Less than once per year 
-- Several times per year 
-- Monthly 
-- Weekly 
-- Daily 
+- まったくない 
+- 1年に1度以下 
+- 1年に複数回程度 
+- 毎月 
+- 毎週 
+- 毎日 
 
-### Please rate your level of satisfaction with your current data management and analysis workflow (i.e. how you collect, organize, store and analyze your data). 
+### あなたの現在のデータマネジメントと解析に関するワークフロー(どのようにデータを収集、オーガナイズ、保存そして解析するか)の満足度を教えてください。 
 
-- Very unsatisfied 
-- Unsatisfied 
-- Neutral 
-- Satisfied 
-- Very satisfied 
-- Not sure 
-- Not applicable 
-- Never thought about this 
+- とても不満足 
+- 不満足 
+- どちらでもない 
+- 満足
+- とても満足 
+- 分からない 
+- 該当しない 
+- 考えたことがない 
 
-### Why are you participating in this workshop? 
+### このワークショップに参加する理由を教えてください。 
 
-- To learn new skills. 
-- To refresh or review my skills. 
-- To learn skills that I can apply to my current work. 
-- To learn skills that I can apply to my work in the future. 
-- To learn skills that will help me get a job or a promotion. 
-- As a requirement for my program or current position. 
+- 新しいスキルを習得するため。 
+- 現在のスキルのリフレッシュ、もしくは復習のため。 
+- 現在の仕事に使用できるスキル習得のため。 
+- 将来の仕事に使用できるスキル習得のため。
+- 仕事の獲得もしくはプロモーションに役立つスキル習得のため。
+- 自分のプログラムや現在の仕事に必要なため。 
 
-### How did you find out about this workshop? 
+### このワークショップをどのようにして知りましたか？ 
 
-- Received an email or saw a flyer about the workshop 
-- Read about the workshop in a newsletter or on university website 
-- Saw the workshop listed on carpentries.org, datacarpentry.org, or software-carpentry.org 
-- My advisor or supervisor told me about the workshop 
-- A friend or colleague told me about the workshop 
-- Saw the workshop advertised on social media (Twitter, Facebook, etc.) 
-- Heard about the workshop at a conference, meeting, or seminar 
-- Heard about the workshop from a funding organization or program officer 
+- ワークショップに関する E メールもしくはチラシを受け取った。 
+- ニュースレターもしくは大学のウェブサイトでこのワークショップについて読んだ。 
+- carpentries.org、datacarpentry.org、または software-carpentry.org のウェブサイトでこのワークショップを見た。 
+- アドヴァイザー、もしくはスーパーバイザーにこのワークショップに参加するよう言われた。 
+- 友人もしくは同僚からこのワークショップにについて聞いた。 
+- ソーシャルメディア (Twitter、Facebook、など)でこのワークショップを見た。 
+- 学会、会議、またはセミナーでこのワークショップについて聞いた。 
+- 資金を提供している組織、もしくはプログラムオフィサーからこのワークショップについて聞いた。 
 
-### The next set of questions is optional. If you prefer no to answer a question, please click the down arrow on your keyboard, or scroll down to navigate to the next question.                       Please rate your level of agreement with the following statements.  
-
-#### Having access to the original, raw data is important to be able to repeat an analysis.  
+### 以下の質問は任意です。 もし回答したくない場合はあなたのキーボードの下向き矢印押下、もしくは画面をスクロールして次の質問に進んでください。以下のステートメントの合意レベルを教えてください。
+                       
+#### オリジナルの素データへのアクセスは解析を繰り返すために大切です。  
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -196,11 +192,11 @@ If you have any questions about your rights or treatment as a research participa
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
+   <td style="text-align:center;"> まったく同意しない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
+   <td style="text-align:center;"> 何とも言えない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
+   <td style="text-align:center;"> まったく同意する </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 1 </td>
@@ -212,7 +208,7 @@ If you have any questions about your rights or treatment as a research participa
 </tbody>
 </table>
 
-#### I can write a small program, script, or macro to address a problem in my own work.  
+####　仕事上、小さなプログラム、スクリプトもしくはマクロを問題解決のために作成することが出来る。  
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -225,11 +221,11 @@ If you have any questions about your rights or treatment as a research participa
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
+   <td style="text-align:center;"> まったく同意しない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
+   <td style="text-align:center;"> 何とも言えない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
+   <td style="text-align:center;"> まったく同意する </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 1 </td>
@@ -241,7 +237,7 @@ If you have any questions about your rights or treatment as a research participa
 </tbody>
 </table>
 
-#### I know how to search for answers to my technical questions online.  
+#### 技術上の質問にオンラインで回答を検索することが出来る。  
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -254,11 +250,11 @@ If you have any questions about your rights or treatment as a research participa
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
+   <td style="text-align:center;"> まったく同意しない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
+   <td style="text-align:center;"> 何とも言えない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
+   <td style="text-align:center;"> まったく同意する </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 1 </td>
@@ -270,7 +266,7 @@ If you have any questions about your rights or treatment as a research participa
 </tbody>
 </table>
 
-#### While working on a programming project, if I got stuck, I can find ways of overcoming the problem.  
+#### プログラミングプロジェクトにおいて、困難に当たった際、その問題を解決する手法を見つけることが出来る。  
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -283,11 +279,11 @@ If you have any questions about your rights or treatment as a research participa
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
+   <td style="text-align:center;"> まったく同意しない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
+   <td style="text-align:center;"> 何とも言えない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
+   <td style="text-align:center;"> まったく同意する </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 1 </td>
@@ -299,7 +295,7 @@ If you have any questions about your rights or treatment as a research participa
 </tbody>
 </table>
 
-#### I am confident in my ability to make use of programming software to work with data.  
+#### データを使用するためにプログラミングソフトウェアを使用することに自信がある。  
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -312,11 +308,11 @@ If you have any questions about your rights or treatment as a research participa
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
+   <td style="text-align:center;"> まったく同意しない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
+   <td style="text-align:center;"> 何とも言えない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
+   <td style="text-align:center;"> まったく同意する </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 1 </td>
@@ -328,7 +324,7 @@ If you have any questions about your rights or treatment as a research participa
 </tbody>
 </table>
 
-#### Using a programming language (like R or Python) can make my analyses easier to reproduce.   
+#### プログラミング言語 (R やパイソンなど) を使用することは私の解析の再現性を容易にしてくれる。   
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -341,11 +337,11 @@ If you have any questions about your rights or treatment as a research participa
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
+   <td style="text-align:center;"> まったく同意しない </td>
    <td style="text-align:center;">  </td>
    <td style="text-align:center;"> Neutral </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
+   <td style="text-align:center;"> まったく同意する </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 1 </td>
@@ -357,7 +353,7 @@ If you have any questions about your rights or treatment as a research participa
 </tbody>
 </table>
 
-#### Using a programming language (like R or Python) can make me more efficient at working with data.   
+#### プログラミング言語 (R やパイソンなど) を使用することは私の解析の効率を高めてくれる。  
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -370,11 +366,11 @@ If you have any questions about your rights or treatment as a research participa
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
+   <td style="text-align:center;"> まったく同意しない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
+   <td style="text-align:center;"> 何とも言えない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
+   <td style="text-align:center;"> まったく同意する </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 1 </td>
@@ -386,11 +382,11 @@ If you have any questions about your rights or treatment as a research participa
 </tbody>
 </table>
 
-### Please share what you most hope to learn from participating in this workshop. 
+### このワークショップから学びたいことを教えてください。 
 
-(long text answer)
+(長文による回答)
 
-### In what country is your workshop being held? For online training, please enter the country you are located in.  *
+### ワークショップが実施される国を教えてください。オンラインの場合はあなたの居住国を教えてください。  *
 
 - アフガニスタン
 - オーランド諸島
@@ -642,34 +638,34 @@ If you have any questions about your rights or treatment as a research participa
 - ザンビア
 - ジンバブエ
 
-### *Demographic Questions* Thank you very much for participating in this survey.  We appreciate your input, which will help 
-us to create a diverse, inclusive and welcoming event.  The Carpentries seek to promote a scientific computing community that is an inclusive and welcoming environment for all. In order to further this goal, we hope to 
-understand the makeup of the community and the experiences of individuals within it. The data from this survey will help us to assess the diversity of our community.
+### *人口動態調査* このアンケート調査へのご協力ありがとうございます。あなたの回答は、多様的で包括性がある歓迎的なイベントの実施に 
+役立てます。カーペントリーズは全ての人に包括的で歓迎的な環境の科学的なコンピューティングコミュニティを推進しています。このゴールを達成するために、コミュニティの構成、1人1人のそこでの経験を 
+理解したいと望んでいます。このアンケートの回答は私たちのコミュニティの評価に役立ちます。
 
-### To which gender do you most identify? 
+### 性別を教えてください。 
 
-- Female 
-- Gender variant/non-conforming 
-- Male 
-- Prefer not to say 
+- 女性 
+- 性別バリアント / 不適合 
+- 男性     
+- 答えたくない 
 
-### How would you describe yourself? Choose one or more of the following groups.  
+### ご自身をどのように説明しますか？以下から 1 つ以上選んでください。  
 
-- American Indian or Alaska Native (Having origins in any of the original peoples of North and South America (including Central America), and who maintains a tribal affiliation or community attachment.) 
-- Asian (Having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, Indonesia, the Philippine Islands, Thailand, and Vietnam.) 
-- Black or African American (Having origins in any of the Black racial groups of Africa – includes Caribbean Islanders and others of African origin.) 
-- Hispanic or Latino(a) (A person of Spanish-speaking origin or ancestry and/or Latin American origin or ancestry – includes Portuguese and Brazilians.) 
-- Native Hawaiian or Other Pacific Islander (Having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.) 
-- White (Having origins in any of the original peoples of Europe, the Middle East, or North Africa.) 
-- I prefer not to say. 
+- アメリカンインディアン、もしくはアラスカネイティブ (南北中米のネイティブ起源に持つ、もしくは部族やコミュニティに属する) 
+- アジア人 (極東、東南アジアもしくはカンボジア、中国、インド、日本、韓国、マレーシア、パキスタン、インドネシア、フィリピン、タイおよびベトナムを含むインド亜大陸などを含む)　の原住民のいずれかに起源を持つ。
+- 黒人、もしくはアフリカ系アメリカ人 (アフリカの黒人系グループ　– カリブ諸島や他のアフリカ系の起源を持つ。) 
+- ヒスパニック系もしくはラテン系 (スペイン語を話すもしくは起源を持つ/ ポルトガルおよびブラジルを含むラテン系を起源に持つ）
+- ハワイ原住民もしくは他の太平洋諸島人 (ハワイ、グアム、サモア、もしくは他の太平洋諸島に起源を持つ) 
+- 白人 (ヨーロッパ、中東もしくは北アフリカを起源に持つ。）
+- 答えたくない 
 
 -----------
 
 ### Thank you screen 
-Thank you for completing this survey! Your input is used to improve our workshops..
+アンケート調査にご協力ありがとうございました！あなたからの回答はワークショップの向上に使用されます。
 
-We are committed to making this workshop accessible to everybody. If we can help making learning easier for you (e.g. sign-language interpreters, lactation facilities) please get in touch with the workshop
+私たちはこのワークショップが皆に利用できるように努めます。もしもあなたの学習を容易に出来ることがあれば（例： 手話通訳、授乳室など) 連絡してください。
 
-Be sure to check out our [blog](https://carpentries.org/blog), and follow [@thecarpentries](https://twitter.com/thecarpentries) on Twitter.
+私たちのブログ [blog](https://carpentries.org/blog)　やツイッター [@thecarpentries](https://twitter.com/thecarpentries) のフォローをよろしくお願いします。
 
-Our long-term survey measures the impact our workshops are having on learners 6 months to a year after completing a Carpentries workshop. If you want to participate please click on the "Participate" button below.
+私たちのワークショップのインパクトを調査する長期アンケートは、ワークショップの 6 か月から 1 年後の間に実施されます。もしご興味があれば、以下の "参加する" ボタンをクリックしてください。
