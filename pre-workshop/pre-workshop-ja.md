@@ -324,7 +324,7 @@
 </tbody>
 </table>
 
-#### プログラミング言語 (R やパイソンなど) を使用することは私の解析の再現性を容易にしてくれる。   
+#### プログラミング言語（RやPythonなど）を使うことで、自分の分析をより再現しやすくすることができる。
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
