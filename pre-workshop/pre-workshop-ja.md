@@ -266,7 +266,7 @@
 </tbody>
 </table>
 
-#### プログラミングプロジェクトにおいて、困難に当たった際、その問題を解決する手法を見つけることが出来る。  
+#### プログラミングをしていて行き詰ったときに、その問題を解決する手法を見つけることが出来る。  
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
