@@ -237,7 +237,7 @@
 </tbody>
 </table>
 
-#### 技術上の質問にオンラインで回答を検索することが出来る。  
+#### 技術的な質問の答えをオンラインで探す方法が分かる。
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
