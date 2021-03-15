@@ -295,7 +295,7 @@
 </tbody>
 </table>
 
-#### データを使用するためにプログラミングソフトウェアを使用することに自信がある。  
+#### 自分のプログラミングソフトウェアによるデータ解析能力に自信がある。
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
