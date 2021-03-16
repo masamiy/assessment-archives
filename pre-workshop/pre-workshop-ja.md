@@ -196,7 +196,7 @@
    <td style="text-align:center;">  </td>
    <td style="text-align:center;"> どちらでもない </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> まったく同意する </td>
+   <td style="text-align:center;"> 強くそう思う </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 1 </td>
