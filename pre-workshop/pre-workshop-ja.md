@@ -192,7 +192,7 @@
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> まったく同意しない </td>
+   <td style="text-align:center;"> 全くそう思わない </td>
    <td style="text-align:center;">  </td>
    <td style="text-align:center;"> 何とも言えない </td>
    <td style="text-align:center;">  </td>
