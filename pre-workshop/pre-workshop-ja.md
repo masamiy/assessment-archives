@@ -170,7 +170,7 @@
 
 - ワークショップに関する E メールもしくはチラシを受け取った。 
 - ニュースレターもしくは大学のウェブサイトでこのワークショップについて読んだ。 
-- carpentries.org、datacarpentry.org、または software-carpentry.org のウェブサイトでこのワークショップを見た。 
+- carpentries.org、datacarpentry.org、または software-carpentry.org のウェブサイトでこのワークショップの発表を見た。 
 - アドヴァイザー、もしくはスーパーバイザーにこのワークショップに参加するよう言われた。 
 - 友人もしくは同僚からこのワークショップにについて聞いた。 
 - ソーシャルメディア (Twitter、Facebook、など)でこのワークショップを見た。 
