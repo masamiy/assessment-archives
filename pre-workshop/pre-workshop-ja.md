@@ -353,7 +353,7 @@
 </tbody>
 </table>
 
-#### プログラミング言語 (R やパイソンなど) を使用することは私の解析の効率を高めてくれる。  
+#### プログラミング言語（RやPythonなど）を使用することで、データの処理をより効率的に行うことができる。
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
